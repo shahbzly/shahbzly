@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://www.toogit.com/uploads/ServicesAttachments/2020/03220828192410.jpg)]
 <h1 align="center">Hi 👋, I'm Nizam Ali</h1>
 <h3 align="center">Java Backend Developer from Azerbaijan</h3>
 
