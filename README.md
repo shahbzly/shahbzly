@@ -1,4 +1,4 @@
-[![MasterHead](https://www.toogit.com/uploads/ServicesAttachments/2020/03220828192410.jpg)]
+![MasterHead](https://media.licdn.com/dms/image/C561BAQF48r3wrtVxow/company-background_10000/0/1519801300401 e=1685912400&v=beta&t=gWh3p3iSN6YAcq1svAkLCSPr9n2xE_uhIpyg_3Gy1k4)
 <h1 align="center">Hi 👋, I'm Nizam Ali</h1>
 <h3 align="center">Java Backend Developer from Azerbaijan</h3>
 
